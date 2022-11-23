@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component,Vendor,Part #,Price
+U1,1, Arduino Uno R3,Mouser,782-A000066, $27.60 
+R1,1,10 Ω Resistor,Mouser,603-CFR-25JB-52-10K, $0.10 
+R2,1,10 Ω Resistor,Mouser,603-CFR-25JB-52-10K, $0.10 
+R3,1,10 Ω Resistor,Mouser,603-CFR-25JB-52-10K, $0.10 
+UtempS,1, Temperature Sensor [TMP36],Adafruit,165, $2.75 
+DledR1,1,Red LED,Digi-Key,511-1263-ND, $0.53 
+DledR2,1,Blue LED,Digi-Key,732-5015-ND, $0.26 
+DledR,1,Green LED,Digi-Key,511-1226-ND, $0.60 
+,,,,,
+,,,,Total:, $32.04 
